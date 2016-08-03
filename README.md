@@ -8,7 +8,7 @@ This project seeks to implement the BrewPi firmware onto an ESP8266 controller.
 * [Selecting an ESP8266 Board](docs/Selecting an ESP Board.md)
 * [Full Installation Instructions](docs/INSTALL.md) (including custom brewpi-script)
 * [Installing the Firmware](docs/Installing the Firmware.md)
-* [Developing/Contributing](docs/DEVELOP.md)
+* [Developing/Contributing](docs/Develop.md)
 
 ## Expected Pinout
 * D1 - I2C SCL
